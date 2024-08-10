@@ -168,7 +168,34 @@ h3 {
 }*/
 
 .projects_list {
-    padding-bottom: 40rem;
+   
+}
+
+#project_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+    font-family: "Roboto", sans-serif;
+    font-size: 90px;
+}
+
+.vercel_container {
+    display: flex;
+}
+
+#vercel {
+    width: 50%;
+    margin-left: 22rem;
+    border-radius: 40%;
+    box-shadow: 0 0 5px 8px rgba(0, 0, 0, 0.1);
+    opacity: 0.5;
+}
+
+#vercel:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+    opacity: 1;
 }
 
 #contact {
@@ -218,3 +245,4 @@ h3 {
 background-color: #333; 
 color: #fff; 
 }
+

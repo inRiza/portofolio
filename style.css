@@ -99,6 +99,7 @@ section {
 .bio_list {
     font-family: "Rubik", sans-serif;
     list-style: none;
+    padding-left: 1rem;
 }
 
 .bio_list, li {
@@ -152,6 +153,22 @@ h3 {
 
 .another_list {
     padding-left: 2rem;
+}
+
+#right_list {
+    padding-top: 3rem;
+    padding-left: 40rem;
+}
+
+.bio_title {
+    background: -webkit-linear-gradient(#5df1a7, #2b0ae6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#left_list {
+    padding-left: 5rem;
+    padding-top: 2rem;
 }
 
 .about_list {

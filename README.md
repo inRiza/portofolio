@@ -1,4 +1,4 @@
-## Personal Portfolio Website for Sparta HMIF 2024 Software Engineering Path**
+## Personal Portfolio Website for Sparta HMIF 2024 Software Engineering Path
 
 > To fulfill the Sparta HMIF 2024 task on software engineering path by building a portfolio website I use **HTML** and **CSS**.
 
